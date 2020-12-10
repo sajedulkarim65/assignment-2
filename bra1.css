@@ -1,0 +1,15 @@
+.bra1 {
+    padding: 30px;
+    border-bottom: 1px solid #ff0000;
+}
+
+.bra1 h3 {
+    font-size: 30px;
+    color: red;
+    padding-bottom: 15px;
+}
+
+.bra1 p {
+    font-size: 20px;
+    color: red;
+}
